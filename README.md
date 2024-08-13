@@ -9,7 +9,7 @@
 
 
 ## Description
-Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes
+#Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes#
 
 Software projects are dependent on many third-party libraries, therefore high-risk vulnerabilities can propagate through the dependency chain to downstream projects. Owing to
 the subjective nature of patch management, software vendors commonly fix vulnerabilities silently. Silent vulnerability fixes cause downstream software to be unaware of urgent security issues in a timely manner, posing a security risk to the software. Presently, most of the existing works for vulnerability fix identification only consider the changed code as a sequential textual sequence, ignoring the structural information of the code. 
