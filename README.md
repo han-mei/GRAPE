@@ -4,14 +4,12 @@
     GRAPE - Implementation
     </h1>
 </div>
-[TOC]
-
 
 
 
 ## Description
 Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes
-![alt text](image.png)
+![alt text](image/overview.png)
 ## Requirement
 Our code is based on Python3 (>= 3.8). There are a few dependencies to run the code. The major libraries are listed as follows:
 
